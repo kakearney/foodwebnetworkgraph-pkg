@@ -1,3 +1,7 @@
+### DEPRECATED
+
+Following major updates to both this tool and the ecopathlite (now ecopath_matlab) package included within it, this set of code has now been replaced by my [foodwebgraph](https://github.com/kakearney/foodwebgraph-pkg) package.
+
 ### Overview
 
 This code supplements my poster from the 2016 Ocean Sciences Meeting, entitled "Visualizing ecosystem energy flow in complex food network graphs."  I've also written a series of blog posts on my website ([here](http://kellyakearney.net/2016/01/19/food-webs-as-network-graphs-1.html), [here](http://kellyakearney.net/2016/01/19/food-webs-as-network-graphs-2.html), and [here](http://kellyakearney.net/2016/01/19/food-webs-as-network-graphs-3.html)) which explain the theory behind this set of code, and go through an example of using it.
